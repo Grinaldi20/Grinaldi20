@@ -3,11 +3,11 @@
 **`Estudante de Progamação`**
 
 Me chamo Murilo Pereira Grinaldi, tenho 17 anos e sou natural de Tupã - SP.
-Atualmente, estou concluindo o Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC.
+Atualmente, estou cursando na Fatec de Marília Desenvolvimento de software multiplataformas.
 
 Tenho grande interesse por tecnologia e pretendo dar continuidade à minha formação em Sistemas para Internet com ênfase em Engenharia de Software na FATEC, com o objetivo de me tornar um desenvolvedor Full Stack completo e preparado para os desafios do mercado.
 
-Estou sempre em busca de novos aprendizados, experiências práticas e boas práticas de programação.
+Estou sempre em busca de novos aprendizados, experiências práticas e boas práticas de programação tanto que me formei no Ensino medio integrado ao técnico de Desenvolvimento de Sistemas.
 <p align="left">
    <a href="mailto:murilogrinaldi15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
