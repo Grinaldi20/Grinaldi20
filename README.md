@@ -39,7 +39,7 @@ Atualmente estudo na **FATEC Marília**, cursando Desenvolvimento de Software Mu
 
 ## 🚀 Sobre mim
 
-- 🌱 Estudando **C**, React.js/React Native e Next.js  
+- 🌱 Estudando **C**, javascript , React.js, Next.js  
 - 💡 Focado em desenvolvimento **Full Stack**  
 - 🎯 Objetivo: iniciar carreira em desenvolvimento e criar soluções eficientes  
 - 📚 Sempre aprendendo novas tecnologias e boas práticas  
@@ -51,5 +51,5 @@ Atualmente estudo na **FATEC Marília**, cursando Desenvolvimento de Software Mu
 <p align="center">
   <img src="https://img.shields.io/github/stars/Grinaldi20?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/Grinaldi20?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/languages/top/Grinaldi20?style=for-the-badge&color=blue"/>
+ 
 </p>
