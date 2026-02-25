@@ -39,8 +39,7 @@ Sou apaixonado por aprendizado contínuo, boas práticas de programação e dese
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grinaldi20&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grinaldi20&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grinaldi20&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/Grinaldi20?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/Grinaldi20?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Grinaldi20?style=for-the-badge&color=blue"/>
 </p>
