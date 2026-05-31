@@ -40,7 +40,17 @@ Atualmente estudo na **FATEC Marília**, cursando Desenvolvimento de Software Mu
 - 🌱 Estudando **C**, javascript , React.js, Next.js  
 - 💡 Focado em desenvolvimento **Full Stack**  
 - 🎯 Objetivo: iniciar carreira em desenvolvimento e criar soluções eficientes  
-- 📚 Sempre aprendendo novas tecnologias e boas práticas  
+- 📚 Sempre aprendendo novas tecnologias e boas práticas
+
+  ---
+
+## 🌐 Meu Portfólio
+
+Conheça meu portfólio online, onde apresento projetos, habilidades e experiências em desenvolvimento web:
+
+🔗 **https://portifoliogrinaldi.vercel.app/**
+
+---
 
 ---
 
