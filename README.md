@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Murilo Grinaldi
 
-**Estudante de Sistemas Inteligente | Futuro Full Stack Developer**
+**Estudante de Sistemas Inteligente | Futuro Full Stack Developer Senior**
 
 Sou apaixonado por tecnologia e programação há 3 anos e estou sempre em busca de novos aprendizados.  
 Atualmente estudo na **FATEC POMPEIA**, cursando Sistemas Inteligentes, e busco ingressar no mercado como desenvolvedor, contribuindo com projetos reais e evoluindo minhas habilidades.
