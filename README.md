@@ -37,7 +37,7 @@ Atualmente estudo na **FATEC POMPEIA**, cursando Sistemas Inteligentes, e busco 
 
 ## 🚀 Sobre mim
 
-- 🌱 Estudando **C**, javascript , React.js, Next.js  
+- 🌱 Estudando javascript , React.js, Next.js  
 - 💡 Focado em desenvolvimento **Full Stack**  
 - 🎯 Objetivo: iniciar carreira em desenvolvimento e criar soluções eficientes  
 - 📚 Sempre aprendendo novas tecnologias e boas práticas
