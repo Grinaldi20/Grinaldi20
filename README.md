@@ -64,7 +64,7 @@ Meu objetivo é ajudar negócios a fortalecerem sua presença digital por meio d
 - 🎨 Interfaces personalizadas com foco em UI/UX.
 - 💬 Integração com WhatsApp e redes sociais.
 
-📸 **Instagram:** [@nextpage.web](https://www.instagram.com/nextpage.web/)
+📸 **Instagram:** [@nexpage.web](https://www.instagram.com/nexpage.web/)
 
 ---
 
