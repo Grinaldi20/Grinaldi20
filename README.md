@@ -1,9 +1,12 @@
 # 👋 Olá, eu sou Murilo Grinaldi
 
-**Estudante de Sistemas Inteligente | Futuro Full Stack Developer Senior**
+**Estudante de Sistemas Inteligentes | Desenvolvedor Web | Focado em Full Stack**
 
-Sou apaixonado por tecnologia e programação há 3 anos e estou sempre em busca de novos aprendizados.  
-Atualmente estudo na **FATEC POMPEIA**, cursando Sistemas Inteligentes, e busco ingressar no mercado como desenvolvedor, contribuindo com projetos reais e evoluindo minhas habilidades.
+Sou apaixonado por tecnologia e programação há 3 anos, sempre buscando aprender e desenvolver novas habilidades.
+
+Atualmente estudo na **FATEC Pompeia**, cursando Sistemas Inteligentes, e busco evoluir profissionalmente como desenvolvedor, participando de projetos reais e criando soluções digitais.
+
+Além dos estudos, desenvolvo **sites institucionais, landing pages e páginas web modernas e responsivas**, ajudando empresas e profissionais a fortalecerem sua presença digital.
 
 ---
 
@@ -16,7 +19,9 @@ Atualmente estudo na **FATEC POMPEIA**, cursando Sistemas Inteligentes, e busco 
   <a href="https://www.linkedin.com/in/grinaldi12/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  <a href="https://www.instagram.com/nextpage.web/">
+    <img src="https://img.shields.io/badge/-Nexpage-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -37,20 +42,37 @@ Atualmente estudo na **FATEC POMPEIA**, cursando Sistemas Inteligentes, e busco 
 
 ## 🚀 Sobre mim
 
-- 🌱 Estudando javascript , React.js, Next.js  
-- 💡 Focado em desenvolvimento **Full Stack**  
-- 🎯 Objetivo: iniciar carreira em desenvolvimento e criar soluções eficientes  
-- 📚 Sempre aprendendo novas tecnologias e boas práticas
+- 🌱 Estudando JavaScript, React.js e Next.js.
+- 💡 Focado em desenvolvimento **Full Stack**.
+- 💻 Desenvolvimento de sites, landing pages e interfaces responsivas.
+- 🎨 Criação de interfaces modernas utilizando Figma.
+- 🎯 Objetivo: evoluir como desenvolvedor e criar soluções digitais eficientes.
+- 📚 Sempre aprendendo novas tecnologias e boas práticas.
 
-  ---
+---
+
+## 💎 Nexpage — Desenvolvimento Web
+
+Estou desenvolvendo a **Nexpage**, um projeto voltado à criação de sites modernos, profissionais e responsivos para empresas e profissionais.
+
+Meu objetivo é ajudar negócios a fortalecerem sua presença digital por meio de páginas que combinam **design, tecnologia e uma boa experiência para o usuário**.
+
+**Principais serviços:**
+- 🌐 Sites institucionais para empresas.
+- 🚀 Landing pages profissionais.
+- 📱 Sites responsivos para computadores, tablets e celulares.
+- 🎨 Interfaces personalizadas com foco em UI/UX.
+- 💬 Integração com WhatsApp e redes sociais.
+
+📸 **Instagram:** [@nextpage.web](https://www.instagram.com/nextpage.web/)
+
+---
 
 ## 🌐 Meu Portfólio
 
-Conheça meu portfólio online, onde apresento projetos, habilidades e experiências em desenvolvimento web:
+Conheça meu portfólio online, onde apresento meus projetos, habilidades e experiências em desenvolvimento web.
 
-🔗 **https://portifoliogrinaldi.vercel.app/**
-
----
+🔗 **[Acessar meu portfólio](https://portifoliogrinaldi.vercel.app/)**
 
 ---
 
@@ -59,5 +81,4 @@ Conheça meu portfólio online, onde apresento projetos, habilidades e experiên
 <p align="center">
   <img src="https://img.shields.io/github/stars/Grinaldi20?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/Grinaldi20?style=for-the-badge&color=blue"/>
- 
 </p>
